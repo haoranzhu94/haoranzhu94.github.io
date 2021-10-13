@@ -1,5 +1,5 @@
-title: myCustomTitle
-description: myCustomAndDetailedDescription
+title: [The title of your site]
+description: [A short description of your site's purpose]
 
 
 You can use the [editor on GitHub](https://github.com/hzhu94/Haoran_Zhu/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
