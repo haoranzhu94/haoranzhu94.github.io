@@ -5,6 +5,10 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
+- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](https://link.springer.com/chapter/10.1007%2F978-3-030-73879-2_14) <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  Integer Programming and Combinatorial Optimization (IPCO), 2020 <br>
+
 - [Integer Packing Sets Form a Well-Quasi-Ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
   with Alberto Del Pia, Dion Gijswijt and Jeff Linderoth. <br>
   Operations Research Letters 49(2) 226-230 (2021) <br>
