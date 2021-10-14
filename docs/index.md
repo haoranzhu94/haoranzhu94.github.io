@@ -3,6 +3,12 @@ I am a last year PhD student in the Department of Industrial & Systems Engineeri
 
 I am interested in broad areas of optimization with more focus on discrete and combinatorial optimization. Most of my latest work are centered around the development and study of polyhedral relaxations for a variety of nonconvex sets that appear frequently in a variety of optimization problems.
 
+# Papers
+
+- [Integer packing sets form a well-quasi-ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub)
+  with Alberto Del Pia, Dion Gijswijt, Jeff Linderoth.
+  Operations Research Letters 49(2) 226-230 (2021) 
+
 
 ```
 ############
