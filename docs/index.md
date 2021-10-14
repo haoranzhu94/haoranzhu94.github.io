@@ -1,4 +1,7 @@
-Haoran Zhu is a Ph.D. Candidate in Computer Sciences at the University of Wisconsin-Madison, where he is advised by Robert Nowak. Yinglun is generally interested in sequential decision-making and interactive machine learning. He sometimes writes in the third person :)
+I am a last year PhD student in the [Department of Industrial & Systems Engineering](https://www.engr.wisc.edu/department/industrial-systems-engineering/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) and [Wisconsin Institute for Discovery](https://www.wid.wisc.edu/), working with [Jeff Linderoth](https://jlinderoth.github.io/) and [Alberto Del Pia](https://sites.google.com/site/albertodelpia/home). I obtained his B.S. in Mathematics and Statistics from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in 2016 and his M.S. in Computer Sciences from UW-Madison in 2020.
+
+
+I am interested in broad areas of optimization with more focus on discrete and combinatorial optimization. Most of my latest work are centered around the development and study of polyhedral relaxations for a variety of nonconvex sets that appear frequently in a variety of optimization problems.
 
 
 ```
