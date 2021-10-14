@@ -30,13 +30,19 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Working Experience
 
-- Research Intern(IBM Research AI group) <br>
-  at IBM T. J. Watson Research Center, March 2019 - September 2019 
+- **Research Intern** (IBM Research AI group) at IBM T. J. Watson Research Center, March 2019 - September 2019 
 
 
 # Professional Service
 
-- **Referee**
+- **Referee** for: Mathematical Programming, Mathematical Programming Computation, INFORMS Journal on Computing, Journal of Machine Learning Research, Discrete Optimization, Discrete Applied Mathematics, IPCO 2020, IPCO 2021, ICML 2021, NeurIPS 2021, ICLR 2022 <br>
+
+- **Session Chair** of “Proximity Theory on IP and Topics in Discrete Optimization”, INFORMS 2020 annual meeting <br>
+
+- **Student Officer**, UW-Madison INFORMS student chapter, 2018-2020
+
+
+
 
 ```
 ############
