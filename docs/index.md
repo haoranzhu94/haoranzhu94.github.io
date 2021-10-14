@@ -5,7 +5,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
-- [Integer packing sets form a well-quasi-ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
+- [Integer Packing Sets Form a Well-Quasi-Ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
   with Alberto Del Pia, Dion Gijswijt and Jeff Linderoth. <br>
   Operations Research Letters 49(2) 226-230 (2021) <br>
   
