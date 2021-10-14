@@ -11,7 +11,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   
 - [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
   with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
-  NeurIPS 2020 <br>
+  Neural Information Processing Systems (NeurIPS), 2020 <br>
 
 
 ```
