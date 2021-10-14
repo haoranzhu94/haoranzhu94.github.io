@@ -5,6 +5,16 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
+- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](http://www.optimization-online.org/DB_FILE/2021/06/8428.pdf)
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  submitted to Mathematical Programming, under review <br>
+
+- [Characterization of the Cutting-plane Closure](https://arxiv.org/abs/1911.12943)
+  Discrete Optimization, Major revision <br>
+  
+- [On the Polyhedrality of the Chvatal-Gomory Closure](https://arxiv.org/abs/2106.00295)
+  submitted to Mathematical Programming, under review <br>
+
 - [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](https://link.springer.com/chapter/10.1007%2F978-3-030-73879-2_14) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   Integer Programming and Combinatorial Optimization (IPCO), 2020 <br>
