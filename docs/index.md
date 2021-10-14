@@ -15,13 +15,13 @@ I am interested in broad areas of optimization with more focus on discrete and c
 - [On the Polyhedrality of the Chvatal-Gomory Closure](https://arxiv.org/abs/2106.00295) <br>
   submitted to Mathematical Programming, under review <br>
 
-- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](https://link.springer.com/chapter/10.1007%2F978-3-030-73879-2_14) <br>
-  with Alberto Del Pia and Jeff Linderoth. <br>
-  Integer Programming and Combinatorial Optimization (IPCO), 2020 <br>
-
 - [Integer Packing Sets Form a Well-Quasi-Ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
   with Alberto Del Pia, Dion Gijswijt and Jeff Linderoth. <br>
   Operations Research Letters 49(2) 226-230 (2021) <br>
+  
+- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](https://link.springer.com/chapter/10.1007%2F978-3-030-73879-2_14) <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  Integer Programming and Combinatorial Optimization (IPCO), 2020 <br>
   
 - [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
   with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
