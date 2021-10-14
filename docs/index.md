@@ -30,9 +30,9 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Patent Application
 
-- [System and Method for Quality Mode Prediction in Manufacturing and Process Industries](https://patents.google.com/patent/US20210264290A1/en) <br>
+- [System and Method for Quality Mode Prediction in Manufacturing and Process Industries](https://patents.google.com/patent/US20210264290A1/en) filed on February 20, 2020 (Pending), <br>
   with Pavankumar Murali, Dung Tien Phan and Lam M. Nguyen. <br>
-  Filed on February 20, 2020 (Pending). United States Patent Application 20210264290 <br>
+  United States Patent Application 20210264290 <br>
 
 # Working Experience
 
