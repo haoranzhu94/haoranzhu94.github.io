@@ -5,9 +5,13 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
-- [Integer packing sets form a well-quasi-ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub)
-  with Alberto Del Pia, Dion Gijswijt, Jeff Linderoth.
-  Operations Research Letters 49(2) 226-230 (2021) 
+- [Integer packing sets form a well-quasi-ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
+  with Alberto Del Pia, Dion Gijswijt and Jeff Linderoth. <br>
+  Operations Research Letters 49(2) 226-230 (2021) <br>
+  
+- [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
+  with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
+  NeurIPS 2020 <br>
 
 
 ```
