@@ -5,7 +5,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
-- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](http://www.optimization-online.org/DB_FILE/2021/06/8428.pdf)
+- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](http://www.optimization-online.org/DB_FILE/2021/06/8428.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   submitted to Mathematical Programming, under review <br>
 
