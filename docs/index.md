@@ -28,6 +28,12 @@ I am interested in broad areas of optimization with more focus on discrete and c
   Neural Information Processing Systems (NeurIPS), 2020 <br>
 
 
+# Patent Application
+
+- [System and Method for Quality Mode Prediction in Manufacturing and Process Industries](https://patents.google.com/patent/US20210264290A1/en) <br>
+  with Pavankumar Murali, Dung Tien Phan and Lam M. Nguyen. <br>
+  Filed on February 20, 2020 (Pending). United States Patent Application 20210264290 <br>
+
 # Working Experience
 
 - **Research Intern** (IBM Research AI group) at IBM T. J. Watson Research Center, March 2019 - September 2019 
