@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+
+author:
+  name             : "Hongyi Wang"
 title: [Haoran Zhu]
 description: PhD student in Optimization  <br> <br> Email&#58; hzhu94 &#91;at&#93; wisc &#91;dot&#93; edu <br> <a href="https://www.linkedin.com/in/haoran-zhu-967480b9/"> LinkedIn</a>
 logo: photo.jpeg
