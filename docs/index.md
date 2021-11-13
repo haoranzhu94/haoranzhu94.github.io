@@ -26,7 +26,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   
 - [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](https://link.springer.com/chapter/10.1007%2F978-3-030-73879-2_14) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  Integer Programming and Combinatorial Optimization (IPCO), 2020 <br>
+  Integer Programming and Combinatorial Optimization (IPCO), 2021 <br>
   
 - [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
   with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
