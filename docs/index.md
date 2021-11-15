@@ -39,12 +39,12 @@ I am interested in broad areas of optimization with more focus on discrete and c
   with Pavankumar Murali, Dung Tien Phan and Lam M. Nguyen. <br>
   United States Patent Application 20210264290 <br>
 
-# Working Experience
+# Industry Experience
 
 - **Research Co-op** (IBM Research AI group) at IBM T. J. Watson Research Center, March 2019 - September 2019 
 
 
-# Professional Service
+# Service
 
 - **Referee**: Mathematical Programming, Mathematical Programming Computation, INFORMS Journal on Computing, Journal of Machine Learning Research, Discrete Optimization, Discrete Applied Mathematics, IPCO 2020, IPCO 2021, ICML 2021, NeurIPS 2021, ICLR 2022 <br>
 
