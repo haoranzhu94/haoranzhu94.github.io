@@ -35,9 +35,13 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Patent Application
 
-- [System and Method for Quality Mode Prediction in Manufacturing and Process Industries](https://patents.google.com/patent/US20210264290A1/en) filed on February 20, 2020 (Pending), <br>
+- [Optimal Interpretable Decision Trees using Integer Linear Programming Techniques](https://patents.google.com/patent/US20210264290A1/en) filed on February 20, 2020.<br>
   with Pavankumar Murali, Dung Tien Phan and Lam M. Nguyen. <br>
-  United States Patent Application 20210264290 <br>
+  United States Patent Application 20210264290. <br>
+
+- [Prediction modeling in sequential flow networks](https://patents.google.com/patent/US20210264288A1/en) filed on February 20, 2020.<br>
+  with Pavankumar Murali and Dhavalkumar C. Patel. <br>
+  United States Patent Application 20210264288. <br>
 
 # Industry Experience
 
