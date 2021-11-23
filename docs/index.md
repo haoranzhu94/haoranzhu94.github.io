@@ -51,8 +51,8 @@ I am interested in broad areas of optimization with more focus on discrete and c
 # Service
 
 - **Referee**: 
-  - Journal: Mathematical Programming, Mathematical Programming Computation, INFORMS Journal on Computing, Journal of Machine Learning Research, Discrete Optimization, Discrete Applied Mathematics <br>
-  - Conference: IPCO 2020, IPCO 2021, IPCO 2022, ICML 2021, NeurIPS 2021, ICLR 2022 <br>
+  - *Journal*: Mathematical Programming, Mathematical Programming Computation, INFORMS Journal on Computing, Journal of Machine Learning Research, Discrete Optimization, Discrete Applied Mathematics <br>
+  - *Conference*: IPCO 2020, IPCO 2021, IPCO 2022, ICML 2021, NeurIPS 2021, ICLR 2022 <br>
 
 - **Session Chair** of “Proximity Theory on IP and Topics in Discrete Optimization”, INFORMS 2020 annual meeting <br>
 
