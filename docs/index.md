@@ -8,7 +8,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 - [On the Complexity of Separation From the Knapsack Polytope](http://www.optimization-online.org/DB_FILE/2021/11/8682.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  submitted to IPCO 2022, under review <br>
+Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 
 - [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets: Theory and Computation](http://www.optimization-online.org/DB_FILE/2021/06/8428.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
