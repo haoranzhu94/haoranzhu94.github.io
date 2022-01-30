@@ -31,6 +31,13 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 - [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
   with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
   Neural Information Processing Systems (NeurIPS), 2020 <br>
+  
+  
+# In Progress
+
+- [Extended Relaxation and Cutting-planes for Linear Programs with Complementarity Constraints] <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+
 
 
 # Patent Application
