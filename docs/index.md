@@ -35,9 +35,16 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 # In Progress
 
-- [Extended Relaxation and Cutting-planes for Linear Programs with Complementarity Constraints] <br>
+- Extended Relaxation and Cutting-planes for Linear Programs with Complementarity Constraints <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
 
+- Extended Relaxation and Cutting-planes for Linear Programs with Complementarity Constraints <br>
+  with Yuguang Wu and Xin Wang. <br>
+  
+- New Classes of Facets for Complementarity Knapsack Problems <br>
+
+- Generalized Multi-cover Inequalities for Multiple Knapsack Sets <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
 
 
 # Patent Application
