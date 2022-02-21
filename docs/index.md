@@ -42,9 +42,6 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 # In Progress
 
-- **Extended Relaxation and Cutting-planes for Linear Programs with Complementarity Constraints** <br>
-  with Alberto Del Pia and Jeff Linderoth. <br>
-
 - **A Semidefinite Programming Approach to the Optimal Information Structure Problem in Parking Price Competition** <br>
   with Yuguang Wu and Xin Wang. <br>
 
