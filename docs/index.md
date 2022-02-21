@@ -6,6 +6,10 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
+- [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  submitted to Journal of Global Optimization, under review <br>
+
 - [New Classes of Facets for Complementarity Knapsack Problem](https://drive.google.com/file/d/1COxIv8_rz3veLU0iOA54qIbIeqI5ADjV/view?usp=sharing) <br>
   submitted to International Symposium on Combinatorial Optimization (ISCO), 2022 <br>
 
