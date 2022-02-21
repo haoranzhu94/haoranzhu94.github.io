@@ -6,6 +6,9 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
+- [New Classes of Facets for Complementarity Knapsack Problem](https://drive.google.com/file/d/1EtPfTkeJbYgjQFGn23x6vuNpsqFsRGan/view?usp=sharing) <br>
+  submitted to International Symposium on Combinatorial Optimization (ISCO), 2022 <br>
+
 - [On the Complexity of Separation From the Knapsack Polytope](http://www.optimization-online.org/DB_FILE/2021/11/8682.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
 Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
@@ -40,8 +43,6 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 
 - **A Semidefinite Programming Approach to the Optimal Information Structure Problem in Parking Price Competition** <br>
   with Yuguang Wu and Xin Wang. <br>
-  
-- **New Classes of Facets for Complementarity Knapsack Problems** <br>
 
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
