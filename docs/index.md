@@ -10,7 +10,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   with Alberto Del Pia and Jeff Linderoth. <br>
   submitted to Journal of Global Optimization, under review <br>
 
-- [New Classes of Facets for Complementarity Knapsack Problem](https://drive.google.com/file/d/1COxIv8_rz3veLU0iOA54qIbIeqI5ADjV/view?usp=sharing) <br>
+- [New Classes of Facets for Complementarity Knapsack Problem](https://drive.google.com/file/d/1dfXHslVytDnOXcsxiwjtTinh8zUvw-RU/view?usp=sharing) <br>
   submitted to International Symposium on Combinatorial Optimization (ISCO), 2022 <br>
 
 - [On the Complexity of Separation From the Knapsack Polytope](http://www.optimization-online.org/DB_FILE/2021/11/8682.pdf) <br>
