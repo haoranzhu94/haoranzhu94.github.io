@@ -42,7 +42,7 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 # In Progress
 
-- [A Semidefinite Programming Approach to the Optimal Information Structure Problem in Parking Price Competition] <https://drive.google.com/file/d/1161C-5P3YZnXQA7LyxdERLH0y0jgm9gS/view?usp=sharing> <br>
+- [A Semidefinite Programming Approach to the Optimal Information Structure Problem in Parking Price Competition](https://drive.google.com/file/d/1161C-5P3YZnXQA7LyxdERLH0y0jgm9gS/view?usp=sharing) <br>
   with Yuguang Wu and Xin Wang. <br>
 
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
