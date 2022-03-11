@@ -6,7 +6,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
-- [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) <br>
+- [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) [(slides)](https://drive.google.com/file/d/1LQhMkQrWOiKZDTWx1FuikpdKOqTtX1ft/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   submitted to Journal of Global Optimization, under review <br>
 
