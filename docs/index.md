@@ -28,7 +28,7 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 - [On the Polyhedrality of the Chvatal-Gomory Closure](https://arxiv.org/abs/2106.00295) <br>
   submitted to Mathematical Programming, under review <br>
-  [[poster]](https://drive.google.com/file/d/1GRIXsQlHWvJ8MFOS7UbM28dfHb0X3TnO/view?usp=sharing) <br>
+  [[poster]](https://drive.google.com/file/d/1GRIXsQlHWvJ8MFOS7UbM28dfHb0X3TnO/view?usp=sharing) [[video]](https://drive.google.com/file/d/1mu7v3Jgy7LysKpsz5duzKatLBoWyIf5J/view?usp=sharing) <br>
 
 - [Integer Packing Sets Form a Well-Quasi-Ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
   with Alberto Del Pia, Dion Gijswijt and Jeff Linderoth. <br>
@@ -37,7 +37,8 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 - [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets](https://link.springer.com/chapter/10.1007%2F978-3-030-73879-2_14) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   Integer Programming and Combinatorial Optimization (IPCO), 2021 <br>
-  [[poster]](https://drive.google.com/file/d/11MNQGEyDDnoVwzstczNhFs6_TxOKWZ4L/view?usp=sharing) [[slides]](https://docs.google.com/presentation/d/1X9OTLMX2zCWQcg_hh5vUHhF1g7vE5BjK/edit?usp=sharing&ouid=111857925126361212412&rtpof=true&sd=true) <br> 
+  [[poster]](https://drive.google.com/file/d/11MNQGEyDDnoVwzstczNhFs6_TxOKWZ4L/view?usp=sharing) [[slides]](https://docs.google.com/presentation/d/1X9OTLMX2zCWQcg_hh5vUHhF1g7vE5BjK/edit?usp=sharing&ouid=111857925126361212412&rtpof=true&sd=true)
+  [[video]](https://drive.google.com/file/d/1rUhFjYFm-K-zmcQCdaxxQB7XGjDVfTnh/view?usp=sharing) <br> 
   
 - [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
   with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
