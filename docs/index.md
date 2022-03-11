@@ -27,6 +27,7 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 - [On the Polyhedrality of the Chvatal-Gomory Closure](https://arxiv.org/abs/2106.00295) <br>
   submitted to Mathematical Programming, under review <br>
+  [[poster]](https://drive.google.com/file/d/1GRIXsQlHWvJ8MFOS7UbM28dfHb0X3TnO/view?usp=sharing) <br>
 
 - [Integer Packing Sets Form a Well-Quasi-Ordering](https://www.sciencedirect.com/science/article/abs/pii/S0167637721000225?via%3Dihub) <br>
   with Alberto Del Pia, Dion Gijswijt and Jeff Linderoth. <br>
