@@ -43,7 +43,8 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 - [A Scalable MIP-based Method for Learning Optimal Multivariate Decision Trees](https://proceedings.neurips.cc/paper/2020/hash/1373b284bc381890049e92d324f56de0-Abstract.html) <br>
   with Pavankumar Murali, Dzung T. Phan, Lam M. Nguyen and Jayant R. Kalagnanam. <br>
   Neural Information Processing Systems (NeurIPS), 2020 <br>
-  [[poster]](https://drive.google.com/file/d/1X6tsMLN2MAsUu9fjKk-OlKhDQyrwfmX0/view?usp=sharing) [[slides]](https://docs.google.com/presentation/d/11bQZnsoxHNrb9meh9WbRIfHFR0lFJMys/edit?usp=sharing&ouid=111857925126361212412&rtpof=true&sd=true) <br>
+  [[poster]](https://drive.google.com/file/d/1X6tsMLN2MAsUu9fjKk-OlKhDQyrwfmX0/view?usp=sharing) [[slides]](https://docs.google.com/presentation/d/11bQZnsoxHNrb9meh9WbRIfHFR0lFJMys/edit?usp=sharing&ouid=111857925126361212412&rtpof=true&sd=true)
+  [[video]](https://drive.google.com/file/d/1qv3SNk0rgitMYnbdYzICSmeoBhF42JDq/view?usp=sharing) <br>
   
   
 # In Progress
