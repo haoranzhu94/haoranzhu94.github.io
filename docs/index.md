@@ -20,7 +20,7 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 
 - [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets: Theory and Computation](http://www.optimization-online.org/DB_FILE/2021/06/8428.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  Mathematical Programming, first round review, minor revision <br>
+  Mathematical Programming, accepted. <br>
 
 - [Characterization of the Cutting-plane Closure](https://arxiv.org/abs/1911.12943) <br>
   Discrete Optimization, first round review, major revision <br>
