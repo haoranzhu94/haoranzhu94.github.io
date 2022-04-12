@@ -12,6 +12,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   [[slides]](https://drive.google.com/file/d/1LQhMkQrWOiKZDTWx1FuikpdKOqTtX1ft/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1p5twUMI-T0QZo_IChOm9n-M62dpf7y1F/view?usp=sharing) <br>
 
 - [New Classes of Facets for Complementarity Knapsack Problem](https://arxiv.org/pdf/2203.02873.pdf) <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
   submitted to International Symposium on Combinatorial Optimization (ISCO), 2022 <br>
 
 - [On the Complexity of Separation From the Knapsack Polytope](http://www.optimization-online.org/DB_FILE/2021/11/8682.pdf) <br>
@@ -20,7 +21,7 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 
 - [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets: Theory and Computation](http://www.optimization-online.org/DB_FILE/2020/11/8107.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  Mathematical Programming (2022). <br>
+  Mathematical Programming (2022) <br>
 
 - [Characterization of the Cutting-plane Closure](https://arxiv.org/abs/1911.12943) <br>
   Discrete Optimization, first round review, major revision <br>
