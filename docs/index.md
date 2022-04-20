@@ -13,7 +13,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 - [New Classes of Facets for Complementarity Knapsack Problem](https://arxiv.org/pdf/2203.02873.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  submitted to International Symposium on Combinatorial Optimization (ISCO), 2022 <br>
+  International Symposium on Combinatorial Optimization (ISCO), 2022 <br>
 
 - [On the Complexity of Separation From the Knapsack Polytope](http://www.optimization-online.org/DB_FILE/2021/11/8682.pdf) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
