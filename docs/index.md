@@ -19,7 +19,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   with Alberto Del Pia and Jeff Linderoth. <br>
 Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 
-- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets: Theory and Computation](http://www.optimization-online.org/DB_FILE/2020/11/8107.pdf) <br>
+- [Multi-cover Inequalities for Totally-Ordered Multiple Knapsack Sets: Theory and Computation](https://trebuchet.public.springernature.app/get_content/862906c9-2f11-4fdf-957a-cf7657a29fd9) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   Mathematical Programming (2022) <br>
 
