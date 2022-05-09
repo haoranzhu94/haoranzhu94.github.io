@@ -50,11 +50,21 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 # In Progress
 
+- **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  
+- **Separation Problem From the Knapsack Polytope: Complexity and Heuristics** <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  
+- **Branch-and-cut for Complementarity Knapsack Problem** <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  
+
+# Miscellaneous
+
 - [A Semidefinite Programming Approach to the Optimal Information Structure Problem in Parking Price Competition](https://drive.google.com/file/d/1161C-5P3YZnXQA7LyxdERLH0y0jgm9gS/view?usp=sharing) <br>
   with Yuguang Wu and Xin Wang. <br>
 
-- **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
-  with Alberto Del Pia and Jeff Linderoth. <br>
 
 
 # Patent Application
