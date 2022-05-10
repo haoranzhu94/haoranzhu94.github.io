@@ -93,4 +93,9 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 - **Student Officer**, UW-Madison INFORMS student chapter, 2018-2020
 
 
+# Other Stuff
+
+In my spare time, other than research and work, I am also actively engaged in all kinds of physical sports and activities. Soccer, running, hiking and lifting are some of favorites. Sometimes I like posting bodybuilding and powerlifting videos in [Instagram](https://www.instagram.com/peterzhuuuuu/?hl=zh-cn). 
+
+
 
