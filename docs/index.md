@@ -51,7 +51,7 @@ Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
   
 # In Progress
 
-- **Recognition for Facet of Knapsack Polytope is D^p-complete** <br>
+- **Recognition of Facet for Knapsack Polytope is D^p-complete** <br>
 
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
