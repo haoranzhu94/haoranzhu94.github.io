@@ -57,8 +57,9 @@ I am interested in broad areas of optimization with more focus on discrete and c
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   
-- **Separation Problem From the Knapsack Polytope: Complexity and Heuristics** <br>
+- [On the Complexity of Separating Cutting Planes for the Knapsack Polytope](https://drive.google.com/file/d/1MHBjCWgb7E1kIQB3p7qPNTA-1eSiIJ5f/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
+  submitted to Mathematical Programming, under review <br>  
   
 - **Branch-and-cut for Complementarity Knapsack Problem** <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
