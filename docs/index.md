@@ -6,6 +6,10 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
+- [On the Complexity of Separating Cutting Planes for the Knapsack Polytope](https://drive.google.com/file/d/1MHBjCWgb7E1kIQB3p7qPNTA-1eSiIJ5f/view?usp=sharing) <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  submitted to Mathematical Programming, under review <br> 
+
 - [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   submitted to Journal of Global Optimization, under review <br>
@@ -55,11 +59,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 - **Recognition of Facet for Knapsack Polytope is D^p-complete** <br>
 
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
-  with Alberto Del Pia and Jeff Linderoth. <br>
-  
-- [On the Complexity of Separating Cutting Planes for the Knapsack Polytope](https://drive.google.com/file/d/1MHBjCWgb7E1kIQB3p7qPNTA-1eSiIJ5f/view?usp=sharing) <br>
-  with Alberto Del Pia and Jeff Linderoth. <br>
-  submitted to Mathematical Programming, under review <br>  
+  with Alberto Del Pia and Jeff Linderoth. <br> 
   
 - **Branch-and-cut for Complementarity Knapsack Problem** <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
