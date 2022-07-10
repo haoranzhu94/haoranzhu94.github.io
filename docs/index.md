@@ -100,7 +100,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Other Stuff
 
-In my spare time, other than research and work, I am also actively engaged in all kinds of physical sports and activities. Soccer, running, hiking and swimming are some of favorites. I am also competitive in bodybuilding and powerlifting. Sometimes I like posting videos in [Instagram](https://www.instagram.com/peterzhuuuuu/?hl=zh-cn). 
+In my spare time, other than research and work, I am also actively engaged in all kinds of physical sports and activities. Soccer, running, hiking and swimming are some of my favorites. I am also competitive in bodybuilding and powerlifting. Sometimes I like posting videos in [Instagram](https://www.instagram.com/peterzhuuuuu/?hl=zh-cn). 
 
 
 
