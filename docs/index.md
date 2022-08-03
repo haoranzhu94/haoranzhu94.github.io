@@ -84,7 +84,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Industry Experience
 
-- **Full-time** Microsoft, Redmond, WA, Aug 2022 - 
+- **Full-time** Microsoft, Redmond, WA, Aug 2022 - Now
 
 - **Research Co-op** (IBM Research AI group) at IBM T. J. Watson Research Center, March 2019 - September 2019 
 
