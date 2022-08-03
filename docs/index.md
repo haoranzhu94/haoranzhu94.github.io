@@ -1,4 +1,4 @@
-I am a last year PhD student in the Department of [Industrial & Systems Engineering](https://www.engr.wisc.edu/department/industrial-systems-engineering/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) and [Wisconsin Institute for Discovery](https://wid.wisc.edu/), working with [Jeff Linderoth](https://jlinderoth.github.io/) and [Alberto Del Pia](https://sites.google.com/site/albertodelpia/home). I obtained my B.S. in Mathematics and Statistics from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in 2016 and my M.S. in Computer Sciences from UW-Madison in 2020.
+I am currently an Applied Scientist at Microsoft. Previously I obtained my PhD in the Department of [Industrial & Systems Engineering](https://www.engr.wisc.edu/department/industrial-systems-engineering/) at the [University of Wisconsin-Madison](https://www.wisc.edu/) and [Wisconsin Institute for Discovery](https://wid.wisc.edu/), working with [Jeff Linderoth](https://jlinderoth.github.io/) and [Alberto Del Pia](https://sites.google.com/site/albertodelpia/home). I obtained my B.S. in Mathematics and Statistics from [Nanjing University](https://www.nju.edu.cn/en/main.psp) in 2016 and my M.S. in Computer Sciences from UW-Madison in 2020.
 
 
 I am interested in broad areas of optimization with more focus on discrete and combinatorial optimization. Most of my latest work are centered around the development and study of polyhedral relaxations for a variety of nonconvex sets that appear frequently in different optimization problems. For more details, you can see my [statement of research](https://drive.google.com/file/d/1BgKvPZ6cJz-s6XqEneiaTX_FyR0BBvFr/view?usp=sharing) here.
@@ -83,6 +83,8 @@ I am interested in broad areas of optimization with more focus on discrete and c
   United States Patent Application 20210264288. <br>
 
 # Industry Experience
+
+- **Full-time** Microsoft, Redmond, WA, Aug 2022 - 
 
 - **Research Co-op** (IBM Research AI group) at IBM T. J. Watson Research Center, March 2019 - September 2019 
 
