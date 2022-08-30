@@ -29,7 +29,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   with Alberto Del Pia and Jeff Linderoth. <br>
   Mathematical Programming (2022) <br>
 
-- [Characterization of the Cutting-plane Closure](https://arxiv.org/abs/1911.12943) <br>
+- [The k-aggregation Closure for Covering Sets](https://arxiv.org/pdf/1911.12943.pdf) <br>
   Discrete Optimization, first round review, major revision <br>
   [[poster]](https://drive.google.com/file/d/1w1LZVO_gPkNGPNsu8UapZxZVt_cThyWL/view?usp=sharing) <br>
   
