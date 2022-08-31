@@ -64,11 +64,19 @@ I am interested in broad areas of optimization with more focus on discrete and c
 - **Branch-and-cut for Complementarity Knapsack Problem** <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   
+  
+# Other Publications
+
+- [Theory and Computation For Cutting-plane Methods In Discrete Optimization](https://www.proquest.com/docview/2707587468/B2013DAA6AA742DEPQ/1?accountid=465) <br>
+  Ph.D. Dissertation. <br>
+  
 
 # Miscellaneous
 
 - [A Semidefinite Programming Approach to the Optimal Information Structure Problem in Parking Price Competition](https://drive.google.com/file/d/1161C-5P3YZnXQA7LyxdERLH0y0jgm9gS/view?usp=sharing) <br>
   with Yuguang Wu and Xin Wang. <br>
+  
+  
 
 
 
