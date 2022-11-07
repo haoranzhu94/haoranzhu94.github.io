@@ -59,8 +59,6 @@ I am interested in broad areas of optimization with more focus on discrete and c
   
 # In Progress
 
-- **Recognition of Facet for Knapsack Polytope is D^p-complete** <br>
-
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
   with Alberto Del Pia and Jeff Linderoth. <br> 
   
