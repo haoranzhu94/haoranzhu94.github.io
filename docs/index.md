@@ -6,7 +6,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
-- [Recognition of Facets for Knapsack Polytope is Dp-complete](https://optimization-online.org/wp-content/uploads/2022/11/complexity_knapsack.pdf) <br>
+- [Recognition of Facets for Knapsack Polytope is Dp-complete](https://optimization-online.org/2022/11/recognition-of-facets-for-knapsack-polytope-is-dp-complete/) <br>
   submitted to Integer Programming and Combinatorial Optimization (IPCO), 2022 <br>
 
 - [On the Complexity of Separating Cutting Planes for the Knapsack Polytope](https://drive.google.com/file/d/1MHBjCWgb7E1kIQB3p7qPNTA-1eSiIJ5f/view?usp=sharing) <br>
