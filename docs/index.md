@@ -66,9 +66,6 @@ I am interested in broad areas of optimization with more focus on discrete and c
 - **Generalized Multi-cover Inequalities for Multiple Knapsack Sets** <br>
   with Alberto Del Pia and Jeff Linderoth. <br> 
   
-- **Branch-and-cut for Complementarity Knapsack Problem** <br>
-  with Alberto Del Pia and Jeff Linderoth. <br>
-  
   
 # Other Publications
 
