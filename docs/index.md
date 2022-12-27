@@ -6,12 +6,16 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
+- [New Classes of Facets for Complementarity Knapsack Problem] <br>
+  with Alberto Del Pia and Jeff Linderoth. <br>
+  submitted to Discrete Applied Mathematics <br>
+
 - [Recognition of Facets for Knapsack Polytope is Dp-complete](https://optimization-online.org/2022/11/recognition-of-facets-for-knapsack-polytope-is-dp-complete/) <br>
   submitted to Integer Programming and Combinatorial Optimization (IPCO), 2023 <br>
 
 - [On the Complexity of Separating Cutting Planes for the Knapsack Polytope](https://drive.google.com/file/d/1MHBjCWgb7E1kIQB3p7qPNTA-1eSiIJ5f/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  submitted to Mathematical Programming, under review <br> 
+  submitted to Mathematical Programming, minor revision <br> 
 
 - [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
