@@ -6,7 +6,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 # Papers
 
-- [New Classes of Facets for Complementarity Knapsack Problem] <br>
+- New Classes of Facets for Complementarity Knapsack Problem <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
   submitted to Discrete Applied Mathematics <br>
 
