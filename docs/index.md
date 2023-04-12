@@ -15,7 +15,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 - [On the Complexity of Separating Cutting Planes for the Knapsack Polytope](https://drive.google.com/file/d/1MHBjCWgb7E1kIQB3p7qPNTA-1eSiIJ5f/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  submitted to Mathematical Programming, minor revision <br> 
+  Mathematical Programming (2023) <br> 
 
 - [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
