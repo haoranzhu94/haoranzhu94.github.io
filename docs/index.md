@@ -37,7 +37,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
   Mathematical Programming (2022) <br>
 
 - [The k-aggregation Closure for Covering Sets](https://arxiv.org/pdf/1911.12943.pdf) <br>
-  Discrete Optimization, first round review, major revision <br>
+  Discrete Optimization, accepted <br>
   [[poster]](https://drive.google.com/file/d/1w1LZVO_gPkNGPNsu8UapZxZVt_cThyWL/view?usp=sharing) <br>
   
 - [On the Polyhedrality of the Chvatal-Gomory Closure](https://arxiv.org/abs/2106.00295) <br>
