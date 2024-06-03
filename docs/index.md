@@ -8,7 +8,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 - [New Classes of Facets for Complementarity Knapsack Problem](https://arxiv.org/abs/2203.02873) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  submitted to Discrete Applied Mathematics, minor revision <br>
+  Discrete Applied Mathematics (2024) <br>
 
 - [Recognition of Facets for Knapsack Polytope is Dp-complete](https://optimization-online.org/2022/11/recognition-of-facets-for-knapsack-polytope-is-dp-complete/) <br>
   submitted to Integer Programming and Combinatorial Optimization (IPCO), 2023 <br>
@@ -19,7 +19,7 @@ I am interested in broad areas of optimization with more focus on discrete and c
 
 - [Extended Relaxations and Cutting-planes for Linear Programs with Complementarity Constraints](https://drive.google.com/file/d/1_tLJrS3txmdV_ZKgbHmStN2fmBynWFwt/view?usp=sharing) <br>
   with Alberto Del Pia and Jeff Linderoth. <br>
-  Journal of Global Optimization, **Accepted** <br>
+  Journal of Global Optimization (2024) <br>
   [[slides]](https://drive.google.com/file/d/1LQhMkQrWOiKZDTWx1FuikpdKOqTtX1ft/view?usp=sharing) [[poster]](https://drive.google.com/file/d/1p5twUMI-T0QZo_IChOm9n-M62dpf7y1F/view?usp=sharing) <br>
 
 - [New Classes of Facets for Complementarity Knapsack Problem](https://arxiv.org/pdf/2203.02873.pdf) <br>
